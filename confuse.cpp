@@ -417,7 +417,7 @@ int main() {
             int pilihanUser;
             do {
                 cout << "\n--- MENU USER ---\n";
-                cout << "1. Lihat Semua Session\n";
+                cout << "1. Lihat Semua Film & Harga\n";
                 cout << "2. Pilih Session & Lihat Peta Kursi\n";
                 cout << "3. Pesan Tiket (pilih kursi manual)\n";
                 cout << "4. Lihat Antrian\n";
@@ -469,5 +469,6 @@ int main() {
 
     return 0;
 }
+
 
 
