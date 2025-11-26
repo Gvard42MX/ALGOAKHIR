@@ -353,7 +353,7 @@ int main() {
                 cout << "\n--- MENU ADMIN ---\n";
                 cout << "1. Lihat Studio\n";
                 cout << "2. Tambah Studio\n";
-                cout << "3. Lihat Semua Session\n";
+                cout << "3. Lihat Film\n";
                 cout << "4. Tambah Session\n";
                 cout << "5. Hapus Session\n";
                 cout << "6. Tampilkan Detail Session (termasuk kursi)\n";
@@ -469,3 +469,4 @@ int main() {
 
     return 0;
 }
+
